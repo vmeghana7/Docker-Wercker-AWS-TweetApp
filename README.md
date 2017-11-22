@@ -72,6 +72,7 @@ To Do's in future:
 2. Deploying through Docker Compose. 
 3. Deploying through Kubernetes. 
 4. Add test cases and scripts in the build section and post deploy section. 
+5.
 
 
 
