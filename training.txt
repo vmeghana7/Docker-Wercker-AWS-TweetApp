@@ -4,3 +4,5 @@ Added new line
 Added master line
 added second master line
 
+added new line in console
+
